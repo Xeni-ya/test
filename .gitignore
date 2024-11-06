@@ -1,4 +1,8 @@
-.sass-cache/
-*.css.map
-*.sass.map
-*.scss.map
+assets/styles/index.css
+assets/styles/index.css.map
+
+assets/styles/shop.css
+assets/styles/shop.css.map
+
+assets/styles/one item.css
+assets/styles/one item.css.map

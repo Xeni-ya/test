@@ -1,0 +1,11 @@
+@import "normalize";
+@import "fonts";
+@import "variables";
+@import "mixin";
+
+//по аналогии импортируем свой раздел
+@import "components/header";
+@import "components/main";
+@import "components/footer";
+
+@import "components/one item";
